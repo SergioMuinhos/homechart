@@ -15,7 +15,7 @@ translations:
     de: Jemand (hoffentlich Sie!) hat ein Homechart-Konto geändert, um diese E-Mail-Adresse
       zu verwenden.
     en: Someone (hopefully you!) changed a Homechart account to use this email address.
-    es: Alguien (¡con suerte tú!) cambió una cuenta de Homechart para usar esta dirección
+    es: Alguien (¡Espero que tú!) cambió una cuenta de Homechart para usar esta dirección
       de correo electrónico.
     fr: Quelqu&#39;un (vous, espérons-le!) a modifié un compte Homechart pour utiliser
       cette adresse e-mail.
@@ -40,7 +40,7 @@ translations:
       verknüpften Homechart-Kontos geändert. Die neue E-Mail-Adresse lautet
     en: Someone (hopefully you!) changed the email address of a Homechart account
       associated with this email address.  The new email address is
-    es: Alguien (¡esperemos que usted!) cambió la dirección de correo electrónico
+    es: Alguien (¡espero que usted!) cambió la dirección de correo electrónico
       de una cuenta de Homechart asociada con esta dirección de correo electrónico.
       La nueva dirección de correo electrónico es
     fr: Quelqu&#39;un (vous, espérons-le!) a changé l&#39;adresse e-mail d&#39;un
@@ -197,7 +197,7 @@ translations:
       verknüpfte Homechart-Konto aktiviert.
     en: Someone (hopefully you!) enabled Sign in with %s for the Homechart account
       associated with this email address.
-    es: Alguien (¡esperemos que usted!) Habilitó Iniciar sesión con %s para la cuenta
+    es: Alguien (¡Espero que usted!) Habilitó Iniciar sesión con %s para la cuenta
       de Homechart asociada con esta dirección de correo electrónico.
     fr: Quelqu&#39;un (vous, espérons-le!) a activé la connexion avec %s pour le compte
       Homechart associé à cette adresse e-mail.
@@ -221,7 +221,7 @@ translations:
       das dieser E-Mail-Adresse zugeordnet ist.
     en: Someone (hopefully you!) changed the password for a Homechart account associated
       with this email address.
-    es: Alguien (¡ojalá seas tú!) cambió la contraseña de una cuenta de Homechart
+    es: Alguien (¡Espero que usted!) cambió la contraseña de una cuenta de Homechart
       asociada con esta dirección de correo electrónico.
     fr: Quelqu&#39;un (vous, espérons-le!) a changé le mot de passe d&#39;un compte
       Homechart associé à cette adresse e-mail.
@@ -245,7 +245,7 @@ translations:
       angefordert, das dieser E-Mail-Adresse zugeordnet ist.
     en: Someone (hopefully you!) requested a password reset for a Homechart account
       associated with this email address.
-    es: Alguien (¡esperemos que usted!) Solicitó un restablecimiento de contraseña
+    es: Alguien (¡Espero que usted!) Solicitó un restablecimiento de contraseña
       para una cuenta de Homechart asociada con esta dirección de correo electrónico.
     fr: Quelqu&#39;un (vous, espérons-le!) a demandé la réinitialisation du mot de
       passe d&#39;un compte Homechart associé à cette adresse e-mail.
@@ -282,7 +282,7 @@ translations:
     de: Verwenden Sie diesen Link, um es zurückzusetzen, es läuft in einer Stunde
       ab
     en: Use this link to reset it, it will expire in one hour
-    es: Use este enlace para restablecerlo, caducará en una hora
+    es: Use este enlace para restablecerla, caducará en una hora
     fr: Utilisez ce lien pour le réinitialiser, il expirera dans une heure
     hi: इसे रीसेट करने के लिए इस लिंक का उपयोग करें, यह एक घंटे में समाप्त हो जाएगा
     zh: 使用此链接重置它，它将在一小时后过期
@@ -412,7 +412,7 @@ translations:
       previous subscription cancelled
     de: Wir haben Ihr vorheriges Homechart-Abonnement gekündigt.
     en: We cancelled your previous Homechart subscription.
-    es: Cancelamos tu suscripción anterior a Homechart.
+    es: Cancelamos su suscripción anterior a Homechart.
     fr: Nous avons annulé votre précédent abonnement Homechart.
     hi: हमने आपकी पिछली होमचार्ट सदस्यता रद्द कर दी है।
     zh: 我们取消了您之前的 Homechart 订阅。
@@ -477,10 +477,10 @@ translations:
       **IP Address**: %s
 
       If this wasn't you, please consider changing your Homechart account password.  Not sure what to do?  Reply to this email, we're here to help!
-    es: 'Alguien (¡esperemos que usted!) acaba de iniciar sesión en su cuenta de Homechart:
+    es: 'Alguien (¡Espero que usted!) acaba de iniciar sesión en su cuenta de Homechart:
       **Tipo de dispositivo**: %s **Dirección IP**: %s Si no fue usted, considere
-      cambiar la contraseña de su cuenta de Homechart. ¿No estás seguro de qué hacer?
-      Responde a este correo electrónico, ¡estamos aquí para ayudarte!'
+      cambiar la contraseña de su cuenta de Homechart. ¿No está seguro de qué hacer?
+      Responda a este correo electrónico, ¡estamos aquí para ayudarte!'
     fr: 'Quelqu&#39;un (vous, espérons-le!) vient de se connecter à votre compte Homechart:
       **Type d&#39;appareil**: %s **Adresse IP**: %s Si ce n&#39;était pas vous, veuillez
       envisager de modifier le mot de passe de votre compte Homechart. Vous ne savez
@@ -496,7 +496,7 @@ translations:
     context: Subject for new device sign in email
     de: Neues Gerät anmelden
     en: New Device Sign In
-    es: Iniciar sesión en dispositivo nuevo
+    es: Iniciar sesión en un dispositivo nuevo
     fr: Connexion à un nouvel appareil
     hi: नया उपकरण साइन इन करें
     zh: 新设备登录
@@ -781,7 +781,7 @@ translations:
     context: Accounts/users of Homechart
     de: Konten
     en: Accounts
-    es: cuentas
+    es: Cuentas
     fr: Comptes
     hi: हिसाब किताब
     zh: 帐户
@@ -790,7 +790,7 @@ translations:
     context: A copy of Homechart data
     de: Sicherung
     en: Backup
-    es: Respaldo
+    es: Respaldo/Backup
     fr: Sauvegarde
     hi: बैकअप
     zh: 备份
@@ -907,7 +907,7 @@ translations:
     context: Category for groceries
     de: Lebensmittel
     en: Groceries
-    es: Comestibles
+    es: Alimentación 
     fr: Épiceries
     hi: किराने का सामान
     zh: 杂货
@@ -1330,7 +1330,7 @@ translations:
     context: Something that is added to something
     de: Eingang
     en: Input
-    es: Aporte
+    es: Entrada
     fr: Saisir
     hi: इनपुट
     zh: 输入
@@ -1366,7 +1366,7 @@ translations:
     context: A single thing
     de: Artikel
     en: Item
-    es: Artículo
+    es: Elemento
     fr: Article
     hi: वस्तु
     zh: 物品
@@ -1393,7 +1393,7 @@ translations:
     context: Message when Item is updated
     de: Artikel aktualisiert
     en: Item updated
-    es: Artículo actualizado
+    es: Elemento actualizado
     fr: Article mis à jour
     hi: आइटम अपडेट किया गया
     zh: 项目已更新
@@ -1447,7 +1447,7 @@ translations:
     context: List designated for pick up/buy now
     de: Abholen
     en: Pick Up
-    es: Levantar
+    es: Recoger
     fr: Ramasser
     hi: उठाना
     zh: 捡起
@@ -1465,7 +1465,7 @@ translations:
     context: A list of objects
     de: Listen
     en: Lists
-    es: Liza
+    es: Lista
     fr: Listes
     hi: सूचियों
     zh: 列表
@@ -1528,7 +1528,7 @@ translations:
     context: A plan for what to eat
     de: Essensplan
     en: Meal Plan
-    es: Régimen de comidas
+    es: Plan de comidas
     fr: Plan de repas
     hi: भोजन की योजना
     zh: 进食计划
@@ -1564,7 +1564,7 @@ translations:
     context: Plans for meals to eat
     de: Essenspläne
     en: Meal Plans
-    es: Planes de alimentación
+    es: Planes de comidas
     fr: Plans de repas
     hi: भोजन योजनाएं
     zh: 膳食计划
@@ -1591,7 +1591,7 @@ translations:
     context: Message when MealTime is deleted
     de: Essenszeit gelöscht
     en: Meal time deleted
-    es: Hora de comer eliminada
+    es: Hora de la comida eliminada
     fr: Heure du repas supprimée
     hi: भोजन का समय हटाया गया
     zh: 用餐时间已删除
@@ -1636,7 +1636,7 @@ translations:
     context: Multiple household member
     de: Mitglieder
     en: Members
-    es: miembros
+    es: Miembros
     fr: Membres
     hi: सदस्यों
     zh: 成员
@@ -1690,7 +1690,7 @@ translations:
     context: Multiple knowledge articles
     de: Anmerkungen
     en: Notes
-    es: notas
+    es: Notas
     fr: Remarques
     hi: टिप्पणियाँ
     zh: 笔记
@@ -1744,7 +1744,7 @@ translations:
     context: What something did
     de: Ausgang
     en: Output
-    es: Producción
+    es: Salida
     fr: Sortir
     hi: उत्पादन
     zh: 输出
@@ -1798,7 +1798,7 @@ translations:
     context: Someone who gets paid
     de: Zahlungsempfänger
     en: Payee
-    es: Tenedor
+    es: Beneficiario
     fr: Bénéficiaire
     hi: आदाता
     zh: 收款人
@@ -1924,7 +1924,7 @@ translations:
     context: First note for recipe if none added
     de: Rezept hinzugefügt
     en: Added recipe
-    es: receta añadida
+    es: Receta añadida
     fr: Recette ajoutée
     hi: जोड़ा नुस्खा
     zh: 添加配方
@@ -2005,7 +2005,7 @@ translations:
     context: Things you want to keep private/hidden/secure
     de: Geheimnisse
     en: Secrets
-    es: Misterios
+    es: Secretos
     fr: secrets
     hi: रहस्य
     zh: 秘密
@@ -2059,7 +2059,7 @@ translations:
     context: Buying things at a store
     de: Einkaufen
     en: Shop
-    es: Comercio
+    es: Tienda
     fr: Boutique
     hi: दुकान
     zh: 店铺
@@ -2068,7 +2068,7 @@ translations:
     context: Recurring items to buy
     de: Grapas
     en: Staples
-    es: Grapas
+    es: Artículo esencial
     fr: Agrafes
     hi: स्टेपल्स
     zh: 订书钉
@@ -2086,7 +2086,7 @@ translations:
     context: Places to buy things
     de: Geschäft
     en: Stores
-    es: Historias
+    es: Tiendas
     fr: Magasins
     hi: स्टोर
     zh: 专卖店
@@ -2149,7 +2149,7 @@ translations:
     context: Next time a task needs to be completed
     de: Nächstes Fälligkeitsdatum
     en: Next due date
-    es: Fecha de vencimiento Siguiente
+    es: Fecha de vencimiento próxima 
     fr: Prochaine date d&#39;échéance
     hi: अगला देय तिथि
     zh: 下一个截止日期
@@ -2158,7 +2158,7 @@ translations:
     context: A task underneath another task
     de: Teilaufgabe
     en: Subtask
-    es: subtarea
+    es: Subtarea
     fr: Sous-tâche
     hi: उपकार्य
     zh: 子任务
@@ -2221,7 +2221,7 @@ translations:
     context: Multiple transfers of money/value between two things
     de: Transaktionen
     en: Transactions
-    es: Actas
+    es: Transacciones
     fr: Transactions
     hi: लेनदेन
     zh: 交易
@@ -2239,7 +2239,7 @@ translations:
     context: Message when Value is created
     de: Wert geschaffen
     en: Value created
-    es: valor creado
+    es: Valor creado
     fr: Valeur créée
     hi: मूल्य बनाया
     zh: 创造价值
@@ -2410,7 +2410,7 @@ translations:
     context: Body for empty Daily Agenda push notification
     de: Heute ist nichts geplant!
     en: Nothing scheduled today!
-    es: Nada programado hoy!
+    es: ¡Nada programado para hoy!
     fr: Rien de prévu aujourd&#39;hui !
     hi: आज कुछ निर्धारित नहीं है!
     zh: 今天没有安排！
@@ -2501,7 +2501,7 @@ translations:
     context: Number of members in a household
     de: Mitgliederzahl
     en: Member Count
-    es: cuenta de miembro
+    es: Cuenta de miembro
     fr: Nombre de membres
     hi: सदस्य गणना
     zh: 会员人数
@@ -3028,7 +3028,7 @@ translations:
     context: Button to add ingredients to a shopping list
     de: Zutaten zur Einkaufsliste
     en: Ingredients to Shopping List
-    es: Ingredientes a la lista de compras
+    es: Ingredientes a la lista de compra
     fr: Ingrédients à la liste de courses
     hi: खरीदारी सूची के लिए सामग्री
     zh: 购物清单的成分
@@ -3055,7 +3055,7 @@ translations:
     context: How long a recipe takes to prep
     de: Vorbereitungszeit
     en: Prep Time
-    es: tiempo de preparación
+    es: Tiempo de preparación
     fr: Temps de préparation
     hi: तैयारी समय
     zh: 准备时间
@@ -3251,7 +3251,7 @@ translations:
     context: Message tooltip field for contact us form
     de: Was ist los?
     en: What's going on?
-    es: ¿Qué está sucediendo?
+    es: ¿Qué está pasando?
     fr: Que se passe-t-il?
     hi: क्या चल रहा है?
     zh: 这是怎么回事？
@@ -3471,7 +3471,7 @@ translations:
     context: Toggle to make a ShopItem into a Staple
     de: Heftklammer machen
     en: Make Staple
-    es: Hacer grapas
+    es: Hacer Elemento
     fr: Créer une agrafe
     hi: स्टेपल बनाओ
     zh: 制作主食
@@ -3728,7 +3728,7 @@ translations:
     context: Address field for a payee
     de: Adresse
     en: Address
-    es: DIRECCIÓN
+    es: Dirección
     fr: Adresse
     hi: पता
     zh: 地址
@@ -3737,7 +3737,7 @@ translations:
     context: Address tooltip for a payee
     de: Adresse des Zahlungsempfängers
     en: Payee address
-    es: dirección del beneficiario
+    es: Dirección del beneficiario
     fr: Adresse du bénéficiaire
     hi: पाने वाले का पता
     zh: 收款人地址
@@ -3816,7 +3816,7 @@ translations:
       einen Gehaltsscheck).
     en: The month the transaction should be included in, use this to push a transaction
       to next month's budget (such as a paycheck)
-    es: El mes en el que se debe incluir la transacción, use esto para impulsar una
+    es: El mes en el que se debe incluir la transacción, use esto para añadir una
       transacción al presupuesto del próximo mes (como un cheque de pago)
     fr: Le mois dans lequel la transaction doit être incluse, utilisez-le pour pousser
       une transaction au budget du mois suivant (comme un chèque de paie)
@@ -3954,7 +3954,7 @@ translations:
     context: A reminder option for an event
     de: 1 Stunde vorher
     en: 1 hour before
-    es: 1 hora antes
+    es: 1 día antes
     fr: 1 heure avant
     hi: 1 घंटा पहले
     zh: 1 小时前
